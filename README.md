@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -111,8 +110,7 @@
 <script>
    const botoes = document.querySelectorAll("button");
 
-
-   botoes.forEach(function (botao) {
+  botoes.forEach(function (botao) {
        let curtiu = false;
        botao.addEventListener("click", botaoClicado);
        function botaoClicado() {
