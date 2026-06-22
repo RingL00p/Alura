@@ -1,7 +1,5 @@
-# Alura
 <!DOCTYPE html>
 <html lang="pt-br">
-
 
 <head>
    <meta charset="UTF-8">
@@ -17,8 +15,7 @@
            padding: 16px;
        }
 
-
-       main {
+ main {
            background-color: #FFFFFF;
            color: #183C63;
            max-width: 800px;
@@ -30,13 +27,13 @@
        }
 
 
-       img {
+   img {
            width: 80px;
            height: 80px;
        }
 
 
-       .artigo-autor {
+ .artigo-autor {
            font-weight: bold;
        }
    </style>
